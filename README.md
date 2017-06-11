@@ -1,8 +1,8 @@
 # Material Theme [Brackets]
-[![Total Downloads](https://badges.ml/material-theme-brackets/total.svg)](https://brackets-extension-badges.github.io#material-theme-brackets)
-[![Latest Downloads](https://badges.ml/material-theme-brackets/last-version.svg)](https://brackets-extension-badges.github.io#material-theme-brackets)
-[![Weekly Downloads](https://badges.ml/material-theme-brackets/week.svg)](https://brackets-extension-badges.github.io#material-theme-brackets)
-[![Daily Downloads](https://badges.ml/material-theme-brackets/day.svg)](https://brackets-extension-badges.github.io#material-theme-brackets)
+[![Total Downloads](https://badges.ml/material-theme-brackets/total.svg?)](https://brackets-extension-badges.github.io#material-theme-brackets)
+[![Latest Downloads](https://badges.ml/material-theme-brackets/last-version.svg?)](https://brackets-extension-badges.github.io#material-theme-brackets)
+[![Weekly Downloads](https://badges.ml/material-theme-brackets/week.svg?)](https://brackets-extension-badges.github.io#material-theme-brackets)
+[![Daily Downloads](https://badges.ml/material-theme-brackets/day.svg?)](https://brackets-extension-badges.github.io#material-theme-brackets)
 
 Inspired by the default version of [Material Theme](http://equinsuocha.io/material-theme/) for Sublime Text
 
