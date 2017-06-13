@@ -6,13 +6,22 @@
 
 Inspired by the default version of [Material Theme](http://equinsuocha.io/material-theme/) for Sublime Text
 
-**Note: This theme works only with [Brackets](https://brackets.io/)**
+**Note: This theme works only with [Brackets](http://brackets.io/)**
 
 ## Requirements
 The theme works best if the following extensions are installed as well
   * [Brackets UI Theming Enable](https://github.com/notasz/brackets-uitheming) (to style UI elements, like the sidebar, toolbar etc.)
   * [Brackets Icons](https://github.com/ivogabe/Brackets-Icons) (for file icons in the sidebar)
   * [Color Highlighter](https://github.com/Taraflex/Brackets-Color-Highlighter) (Color highlighter for CSS, LESS, SCSS, SASS and Stylus)
+
+## Installation
+  * **Using Brackets' Extension Manager (recommended)**
+    1. Open the Extension Manager dialog *(File -> Extension Manager)*, or click the LEGO block icon in the right sidebar
+	2. Search for `Material Theme [Brackets]` and click the install button
+	3. Close the dialog after installation completes and reload Brackets with extensions ( <kbd>F5</kbd> )
+  * **Manual**
+    1. [Download](https://github.com/adhirajsinghchauhan/Material-Theme-Brackets/releases/download/v1.2.0/material-theme-brackets.zip) and extract the ZIP file to the extension folder location *(Help -> Show Extensions Folder)*
+	2. Reload Bracket with extensions ( <kbd>F5</kbd> )
 
 ## Screenshots
 ![HTML](https://raw.githubusercontent.com/adhirajsinghchauhan/Material-Theme-Brackets/master/screenshots/html.png)
