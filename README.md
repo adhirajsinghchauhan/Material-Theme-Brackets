@@ -5,7 +5,7 @@
 [![Daily Downloads](https://flat.badges.ml/dd/material-theme-brackets?)](https://flat.badges.ml/dd/material-theme-brackets)
 [![Version](https://flat.badges.ml/v/material-theme-brackets?)](https://flat.badges.ml/v/material-theme-brackets)
 
-Inspired by the default version of [Material Theme](http://equinsuocha.io/material-theme/) for Sublime Text
+Inspired by the default version of [Material Theme](https://github.com/equinusocio/material-theme) for Sublime Text
 
 **Note: This theme works only with [Brackets](http://brackets.io/)**
 
